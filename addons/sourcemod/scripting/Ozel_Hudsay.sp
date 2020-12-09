@@ -1,39 +1,4 @@
 #include <sourcemod>
-/*
-#include <multicolors>
-#include <hgr>
-#include <cstrike>
-#include <sdktools>
-#include <sdkhooks>
-#include <warden>
-#include <devzones>
-#include <clientprefs>
-#include <customplayerskins>
-#include <overlays>
-#include <store>
-#include <emitsoundany>
-*/
-
-// ----- HookEvent ----- //
-
-/*
-HookEvent("round_start", RoundStart);   
-HookEvent("round_end", RoundEnd);
-HookEvent("player_spawn", OnClientSpawn);
-HookEvent("player_death", OnClientDead);
-HookEvent("bomb_planted", C4Planted);
-HookEvent("weapon_fire", WeaponFire);
-*/
-
-// ----- Semboller ----- //
-/*
-	✪ 
-	⛧ 
-	★ 
-	⍟ 
-	✦
-*/
-
 #pragma semicolon 1
 #pragma newdecls required
 bool Kontrol[MAXPLAYERS];
